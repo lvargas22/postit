@@ -102,7 +102,7 @@ ul li{
       <p>Text Content #4</p>
     </a>
   </li>
-  <li>
+  <li hidden>
     <a href="#" contenteditable>
       <h2>Title #5</h2>
       <p>Text Content #5</p>
